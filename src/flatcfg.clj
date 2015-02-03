@@ -90,6 +90,3 @@
       (load-config-file (.getPath cfg-file)))
 
     (reset! args-config config-args)))
-
-
-(consume-args ["port" "8000"])

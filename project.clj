@@ -1,4 +1,4 @@
-(defproject flatcfg "0.1.0"
+(defproject flatcfg "0.1.1"
   :description "Simple, flat config library"
   :url "http://github.com/narma/flatcfg"
   :license {:name "MIT"

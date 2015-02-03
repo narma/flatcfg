@@ -14,7 +14,7 @@ Configuration supports three sources, resolved in the following order:
 ## Installation
 
 ```
-[flatcfg "0.1.0"]
+[flatcfg "0.1.1"]
 ```
 
 
